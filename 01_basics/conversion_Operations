@@ -1,0 +1,24 @@
+let score = "52";
+console.log(typeof score);
+
+
+let convertscore = Number(score);
+console.log(convertscore);
+console.log(typeof(convertscore));
+
+
+let ans = true;
+let convbool = Number(ans)
+console.log(convbool);
+
+let feedback = 1;
+let convfeed = Boolean(feedback)
+console.log(convfeed);
+
+
+/*
+"" -> false;
+"Moinak" -> true
+*/
+
+
