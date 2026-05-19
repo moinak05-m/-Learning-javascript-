@@ -5,9 +5,13 @@ console.log(myYouTubeName);
 console.log(rename);
 
 let userOne = {
-    email = "youtuber@gmail.com",
-    place = " kolkata"
+    email : "youtuber@gmail.com",
+    place : " kolkata"
     }
 let userTwo = userOne;
-userTwo.email 
+userTwo.email ="insta@gmail.com"
+console.log(userOne.email);
+console.log(userTwo.email);
+
+
 
